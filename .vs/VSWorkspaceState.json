@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Gui",
+    "\\Gui\\Gui",
+    "\\Gui\\Gui\\bin"
   ],
-  "SelectedNode": "\\C:\\Users\\Bojan\\Source\\Repos\\NewApproach",
+  "SelectedNode": "\\Gui\\Gui.sln",
   "PreviewInSolutionExplorer": false
 }

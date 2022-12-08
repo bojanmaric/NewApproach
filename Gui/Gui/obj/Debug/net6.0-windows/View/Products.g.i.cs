@@ -53,7 +53,7 @@ namespace Gui.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Gui;V1.0.0.0;component/view/products.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Gui;component/view/products.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\Products.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
